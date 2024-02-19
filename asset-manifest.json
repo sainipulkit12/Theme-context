@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Theme-context/static/css/main.65251dfe.css",
+    "main.js": "/Theme-context/static/js/main.da304faf.js",
+    "index.html": "/Theme-context/index.html",
+    "main.65251dfe.css.map": "/Theme-context/static/css/main.65251dfe.css.map",
+    "main.da304faf.js.map": "/Theme-context/static/js/main.da304faf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65251dfe.css",
+    "static/js/main.da304faf.js"
+  ]
+}
